@@ -5,11 +5,11 @@ This shell is a little shell written in javascript that runs on the node.js plat
 On a shell: Execute
 
 ```
-$nodejs nsh.js
+$node shell.js
 ```
 
 
-If all works it should boot up and run in root directory. If you are using windows you might have to execute node rather than nodejs.
+If all works it should boot up and run in root directory.
 
 
 # What I put here:
